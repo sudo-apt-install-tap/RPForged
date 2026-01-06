@@ -1,0 +1,18 @@
+** Drc report for Devboard.kicad_pcb **
+** Created on 2026-01-05T12:49:50+0530 **
+
+** Found 2 DRC violations **
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(65.3600 mm, 34.6550 mm): Pad 1 [GND] of C14 on F.Cu
+    @(65.3600 mm, 34.0150 mm): Pad 2 [+3V3] of C14 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(62.2600 mm, 29.3600 mm): Pad 1 [GND] of C13 on F.Cu
+    @(62.9000 mm, 29.3600 mm): Pad 2 [VBUS] of C13 on F.Cu
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

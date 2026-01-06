@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "NEW RES")(type "KiCad")(uri "/home/tapishnud/Documents/kicad-footprints/Resistor_SMD.pretty")(options "")(descr ""))
+)
