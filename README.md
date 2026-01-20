@@ -20,7 +20,8 @@ that I could understand end-to-end.
 
 ## BOM
 
-PCB + PCBA = $60.99
+PCB + PCBA = $58
+Miscellaneous Costs = $2
 
 <img width="1366" height="768" alt="JLC CART" src="https://github.com/user-attachments/assets/554357c0-db56-4ce6-b3e2-d7310489432f" />
 
