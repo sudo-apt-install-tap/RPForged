@@ -18,6 +18,12 @@ that I could understand end-to-end.
 - USB HID projects
 - General embedded prototyping
 
+## Images ( RENDERS )
+<img width="609" height="548" alt="image" src="https://github.com/user-attachments/assets/4f7a1734-8b1e-4fa8-9256-acbe301bfc95" />
+<img width="764" height="525" alt="image" src="https://github.com/user-attachments/assets/f0220008-5c26-4aa5-bbd3-be318f7cae28" />
+<img alt="image" src="https://github.com/sudo-apt-install-tap/RPForged/blob/master/Images/Front%20RT.png" />
+<img alt="image" src="https://github.com/sudo-apt-install-tap/RPForged/blob/master/Images/Back%20RT.png" />
+
 ## BOM
 
 PCB + PCBA = $58
