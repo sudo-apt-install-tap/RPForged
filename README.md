@@ -40,7 +40,7 @@ Any additional boards will be assembled by hand using a hotplate once I have acc
 
 ## Build Images and Videos
 
-<iframe width="560" height="315" src="https://github.com/user-attachments/assets/cfb235b7-8995-48ff-9b28-d44c03ff7a65">
+<img width="560" height="315" src="https://github.com/user-attachments/assets/cfb235b7-8995-48ff-9b28-d44c03ff7a65">
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/530893e0-a8b5-4a69-abcd-23e7de0835d2" />
 
