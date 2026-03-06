@@ -37,3 +37,12 @@ For this project, only **2 boards will be assembled through JLCPCB**
 to validate the design and ensure reliability.
 
 Any additional boards will be assembled by hand using a hotplate once I have access to one. This allows me to learn hands-on SMD assembly while keeping costs low and avoiding unnecessary PCBA orders.
+
+## Build Images and Videos
+
+<iframe width="560" height="315" src="https://github.com/user-attachments/assets/cfb235b7-8995-48ff-9b28-d44c03ff7a65" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/530893e0-a8b5-4a69-abcd-23e7de0835d2" />
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/556bfad2-34e7-4558-8399-64a8ff400f29" />
+
