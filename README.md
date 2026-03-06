@@ -40,9 +40,8 @@ Any additional boards will be assembled by hand using a hotplate once I have acc
 
 ## Build Images and Videos
 
-(video)[https://github.com/user-attachments/assets/cfb235b7-8995-48ff-9b28-d44c03ff7a65]
+<iframe width="916" height="515" src="https://www.youtube.com/embed/GCJLWqlBI_M" title="RpForged demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/530893e0-a8b5-4a69-abcd-23e7de0835d2" />
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/556bfad2-34e7-4558-8399-64a8ff400f29" />
-
