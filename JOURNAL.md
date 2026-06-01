@@ -1,13 +1,13 @@
 ---
-title: RPForged: A RP2040 Devboard.
-author: Tap
-description: It is based on a RP2040. It has USB C port.
+title: "RPForged: A RP2040 Devboard."
+author: "tap"
+description: "It is based on a RP2040. It has USB C port."
 created_at: "2025-12-25"
 ---
 
 # 1/2/2026 10 AM - Making the schematic.   
 
-### 30.12.25
+ ### 30.12.25
 
 I made the schmatic for the devboard today(Just the PD RP2040 and the USB C tho). This will serve as a basic devboard to replace Arduino nano or RPi Pico in my projects. Read the documentations for the RP 2040 and also learnt about decoupling caps and how to reduce voltage.<BR>
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY2NjksInB1ciI6ImJsb2JfaWQifX0=--c83f008602aea8bdfa77931b608cca4b05dcff6d/image.png) <BR>
@@ -30,7 +30,7 @@ Ive finished the schematic and honestly it looks dang good. I mostly followed th
 
 # 1/5/2026 - Routing, drawing and pain  
 
-### 3.01.25
+ ### 3.01.25
 I am having some issues with the caps. All GND pads are getting connected as 1v which basically makes it impossible to route. I am currently trying to understand why this is happening but yeah I wasted like 1hr plus 30mins to get the layout right.
 
 Alas i had to redo the caps in the schematic and now everything works fine, took me like 45mins to figure it out and reroute the traces.
@@ -40,7 +40,7 @@ Alas i had to redo the caps in the schematic and now everything works fine, took
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMzNzMsInB1ciI6ImJsb2JfaWQifX0=--8cbcee96f43fc357b910fef22a45abdda66e0ffb/image.png)
 
 
-### 4.01.25
+ ### 4.01.25
 FINISHED THE ROUTING and the silkscreen. I made some art and yeah it looks great. Also i did the groundpour but some components were not connecting to it so i used vias and traces to connect all of them, in total this took me a WHILE like 3hrs :sob:. I am not really the most effective worker.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMzNTMsInB1ciI6ImJsb2JfaWQifX0=--6bba4f5ac4394899dd6d66c3cd2084ce263ede0e/image.png)
@@ -61,7 +61,7 @@ PD Wiring
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzU4MzMsInB1ciI6ImJsb2JfaWQifX0=--6b5601ca8ba029a3822c5728ea519b6b4e8ccf41/image.png)
 GPIO Wiring
 
-### 5.01.25
+ ### 5.01.25
 Fixed DRC errors for the ground pour and thermal relief. Now i have some board clearance, trace clearance and courtyard overlaps left. This took me another 45mins.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMzNTgsInB1ciI6ImJsb2JfaWQifX0=--4e31d29ec132635cf6645b60be78bd93d5264e97/image.png)
 
@@ -139,7 +139,7 @@ So I changed the schematic and the PCB. I will need to fabricate it again! I hav
 
 # 3/2/2026 - THIS IS CRAZY!!  
 
-### Intro
+ ### Intro
 
 So I did the pan reflow method. Yeah, I know, it’s infamous. Safe to say it works!! Completely unreal. Devboard is stable, crystal aligned perfectly. Next repeating the process on my other assembled board.
 
@@ -150,7 +150,7 @@ PCB on pan.
 
 ----
 
-### To Those Who wanna do this(which I do not recommend):
+ ### To Those Who wanna do this(which I do not recommend):
 
 - Make sure that you add a good amount of flux.
 - Heat up the pan rapidly, then put it to medium heat.
